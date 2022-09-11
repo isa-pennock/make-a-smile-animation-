@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="K6P9;d$5Ap#C,RN3ydHZ" x="0" y="0"></block><block type="device_forever" id="GS?.?)bP~!]oCB/}#WGG" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="4sP8]prGtw1qHVl2:,M."><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="A}Ct1,Fr}WawPlzXIZ3k"><value name="pause"><shadow type="timePicker" id="hv0N(YbY|O+=b.D50zG2"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="1]8L6qev|^M_?H9E$kFR"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        . . . . . 
+        # # # # #
+        `</field><next><block type="device_pause" id="I]Z*aG%a,JsWUFt#Au4^"><value name="pause"><shadow type="timePicker" id="AnFp.U:;7z1.Q[TIHrjY"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="{+64CvgXiV]u65r3y#7Y"><field name="i">IconNames.EigthNote</field><next><block type="device_pause" id="[ZGdMgR{u=#e|zf_{WEk"><value name="pause"><shadow type="timePicker" id="qfEdkEo79LL_[xN}/nBC"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
